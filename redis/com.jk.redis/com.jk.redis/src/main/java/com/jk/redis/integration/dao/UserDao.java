@@ -9,6 +9,11 @@ import org.springframework.stereotype.Repository;
 import java.security.Key;
 import java.util.Map;
 
+/**
+ * @author Junaid Khan
+ *
+ */
+
 @Repository
 public class UserDao {
     private static final String KEY = "USER";
